@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.hotel</groupId>
     <artifactId>EurekaServer</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>dev</version>
     <name>EurekaServer</name>
     <description>EurekaServer</description>
     <properties>
